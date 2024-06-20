@@ -2,7 +2,7 @@
 <template>
   <div>
     <RouterView />
-    1111111111111
+    ok
   </div>
 </template>
 
